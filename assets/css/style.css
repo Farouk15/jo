@@ -7,6 +7,7 @@
 body {
 	background: linear-gradient(130deg, #001a29, #331624);
 	margin: 0;
+	line-height: 2rem;
 }
 
 .content{
